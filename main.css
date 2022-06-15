@@ -20,7 +20,7 @@ body{
   overflow-x: hidden;
 }
 .presContainer{
-  background-image: url('../public/pictures/imagebg.png');
+  background-image: url('./public/pictures/imagebg.png');
   width: 100vw;
   height: 120vh;
   display: flex;
@@ -258,7 +258,7 @@ body{
 
 .footer{
   height: 450px;
-  background-image: url('../public/pictures/imagebg.png');
+  background-image: url('./public/pictures/imagebg.png');
   display: flex;
   justify-content: center;
   align-items: center;
